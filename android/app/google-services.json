@@ -1,0 +1,152 @@
+{
+  "project_info": {
+    "project_number": "978431054644",
+    "firebase_url": "https://spoonshare-meal-default-rtdb.firebaseio.com",
+    "project_id": "spoonshare-meal",
+    "storage_bucket": "spoonshare-meal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978431054644:android:44aefc2452e917b9cf4b61",
+        "android_client_info": {
+          "package_name": "com.example.spoonsharemeals.spoonsharemeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978431054644-3th7br9m1ebdgl57smeibv8431sk80c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spoonsharemeals.spoonsharemeals",
+            "certificate_hash": "0e8883f23570547ad1fd5ece41f4037baf36d125"
+          }
+        },
+        {
+          "client_id": "978431054644-764utj4250e8hjkshl8c83an7uprd6ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.spoonsharemeals.spoonsharemeals",
+            "certificate_hash": "43ccf456596c16d952702544f451007ced27a1bb"
+          }
+        },
+        {
+          "client_id": "978431054644-hsffv4di2m65t65cglnhdmqmfq8bql2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyb_1VNm4DmMpVHe2F2F2It1tdQbo3Tw"
+        },
+        {
+          "current_key": "AIzaSyAgC--5N5DgQwdWENrxLyZnRtRylxnrQDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978431054644-hsffv4di2m65t65cglnhdmqmfq8bql2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978431054644-1bu54f0paqb8rvdapmtie0k5rkdm96hh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spoonshare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978431054644:android:3f09951bf5d4a82fcf4b61",
+        "android_client_info": {
+          "package_name": "com.spoonshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978431054644-hsffv4di2m65t65cglnhdmqmfq8bql2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyb_1VNm4DmMpVHe2F2F2It1tdQbo3Tw"
+        },
+        {
+          "current_key": "AIzaSyAgC--5N5DgQwdWENrxLyZnRtRylxnrQDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978431054644-hsffv4di2m65t65cglnhdmqmfq8bql2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978431054644-1bu54f0paqb8rvdapmtie0k5rkdm96hh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spoonshare"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978431054644:android:776063b2df2ce706cf4b61",
+        "android_client_info": {
+          "package_name": "com.spoonshare.spoonshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978431054644-ct4393l7pdf5kjcujvq8j8to236scltd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spoonshare.spoonshare",
+            "certificate_hash": "fe1404e73ed4adc81522e9775df33fe2296ee90c"
+          }
+        },
+        {
+          "client_id": "978431054644-hsffv4di2m65t65cglnhdmqmfq8bql2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyb_1VNm4DmMpVHe2F2F2It1tdQbo3Tw"
+        },
+        {
+          "current_key": "AIzaSyAgC--5N5DgQwdWENrxLyZnRtRylxnrQDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978431054644-hsffv4di2m65t65cglnhdmqmfq8bql2l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "978431054644-1bu54f0paqb8rvdapmtie0k5rkdm96hh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spoonshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
